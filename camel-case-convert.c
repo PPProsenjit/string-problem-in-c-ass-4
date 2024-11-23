@@ -36,7 +36,7 @@ int main(){
       len++;
     }
     toCamelCase(A, len);
-    printf("Camel Caase: %s\n", A);
+    printf("Camel case: %s\n", A);
 
     return 0;
 }

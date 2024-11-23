@@ -3,7 +3,7 @@
 #define No_Char 256
 int areAnagram(char* A, char* B){
     
-    //get two temp counter array where intial value is 0
+    //get two temp counter array where initial value is 0
     int count[No_Char] = {0};
     int count2[No_Char] = {0};
     int i;
